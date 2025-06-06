@@ -6,7 +6,7 @@ I'm Maxime Conceicao — a **Full Stack JavaScript Developer** with **4 years of
 
 I'm passionate about **clean architecture**, **developer experience (DX)**, and **building meaningful digital products** that balance **performance**, **accessibility**, and **delightful UX**.
 
-## 🚀 Side Projects
+🚀 Side Projects :
 
 - 🖥️ [**Portfolio**](https://maximeconceicao.github.io/): My interactive portfolio showcasing selected projects, UI explorations, and product experiments.
 
