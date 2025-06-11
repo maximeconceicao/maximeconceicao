@@ -2,7 +2,7 @@
 
 # 👋👽
 
-I'm Max — a **Full Stack JavaScript Developer** with **4 years of experience** building clean, scalable, and user-focused web applications.
+I'm Max — a **Full Stack JS/TS Developer** with **4 years of experience** building clean, scalable, and user-focused web applications.
 
 I'm passionate about **clean architecture**, **developer experience (DX)**, and **building meaningful digital products** that balance **performance**, **accessibility**, and **delightful UX**.
 
