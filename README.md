@@ -9,6 +9,7 @@ I'm passionate about **clean architecture**, **developer experience (DX)**, and 
 🚀 Side Projects:
 
 - 🖥️ [**Portfolio**](https://maximeconceicao.github.io/): My interactive portfolio showcasing selected projects, UI explorations, and product experiments.
+- 🌱 [**Temple of Reflection**](https://maximeconceicao.github.io/temple-of-reflection/): A personal **digital garden** — a collection of thoughts, notes, and learnings on software, music, society and mindfulness.
 
 ---
 
