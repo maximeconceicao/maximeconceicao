@@ -2,7 +2,7 @@
 
 # 👋👽
 
-I'm Max — a **Full Stack JS/TS Developer** with **4 years of experience** building clean, scalable, and user-focused web applications.
+I'm Max — a **Full Stack JS/TS Developer** with **5 years of experience** building clean, scalable, and user-focused web applications.
 
 I'm passionate about **clean architecture**, **developer experience (DX)**, and **building meaningful digital products** that balance **performance**, **accessibility**, and **delightful UX**.
 
@@ -13,7 +13,7 @@ I'm passionate about **clean architecture**, **developer experience (DX)**, and 
 
 ---
 
-🛠️ Currently working with: **React**, **Next.js**, **Node.js**, **NestJS**, **TypeScript**, **TypeORM**, **PostgreSQL**
+🛠️ Currently working with: **React Router**, **Node.js**, **NestJS**, **TypeScript**, **TypeORM**, **PostgreSQL**
 
 💡 Interested in: **software craftsmanship**, **local-first apps**, **calm tech**
 
